@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Clipboard History",
+		"CoffeeScript",
+		"CTags",
+		"Cucumber",
+		"DetectSyntax",
+		"Emmet",
+		"Gist",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Soda",
+		"ZenCoding"
+	]
+}
