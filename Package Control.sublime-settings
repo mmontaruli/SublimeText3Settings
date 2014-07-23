@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"All Autocomplete",
 		"BracketHighlighter",
 		"Clipboard History",
 		"CoffeeScript",
@@ -12,6 +13,7 @@
 		"DetectSyntax",
 		"Emmet",
 		"Gist",
+		"Git",
 		"GitGutter",
 		"MarkdownEditing",
 		"Package Control",
@@ -19,7 +21,9 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeREPL",
 		"Tag",
+		"Terminal",
 		"Theme - Soda",
 		"ZenCoding"
 	]
