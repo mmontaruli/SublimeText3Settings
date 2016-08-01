@@ -1,5 +1,6 @@
 {
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -22,6 +23,7 @@
 		"Gist",
 		"Git",
 		"GitGutter",
+		"Markdown Preview",
 		"MarkdownEditing",
 		"Modific",
 		"MultiEditUtils",
@@ -34,6 +36,7 @@
 		"Tag",
 		"Terminal",
 		"Theme - Soda",
+		"Theme - Spacegray",
 		"ZenCoding"
 	]
 }
