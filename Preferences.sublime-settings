@@ -1,7 +1,7 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"file_exclude_patterns":
 	[
 		".DS_Store",
@@ -48,13 +48,11 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"SublimeCodeIntel",
-		"Vintage",
-		"ZenCoding"
+		"Vintage"
 	],
 	"line_padding_bottom": 0.5,
 	"line_padding_top": 0.5,
 	"save_on_focus_lost": true,
-	"theme": "Spacegray.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"trim_trailing_white_space_on_save": true
 }
