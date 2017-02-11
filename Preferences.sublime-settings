@@ -52,6 +52,11 @@
 	],
 	"line_padding_bottom": 0.5,
 	"line_padding_top": 0.5,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_tree_headings": true,
 	"save_on_focus_lost": true,
 	"theme": "Material-Theme.sublime-theme",
 	"trim_trailing_white_space_on_save": true
